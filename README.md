@@ -1,8 +1,7 @@
 # Nodayama Peripheral Communicate Protocols (NPCPs)
 
-Nodayama Peripheral Communicate Protocols(以下、NPCPs)は、
-IC間通信の方式によるパケットサイズ制限などを吸収し、
-データ転送を容易にする事を目的とした通信プロトコル群である。
+Nodayama Peripheral Communicate
+Protocols(以下、NPCPs)は、IC間通信の方式によるパケットサイズ制限などを吸収し、データ転送を容易にする事を目的とした通信プロトコル群である。
 
 ## プロトコル一覧
 
