@@ -22,3 +22,7 @@ NPCPsにおけるプロトコルとその役割の表を以下に示す。
 ### Nodayama Data Transfer Protocol (NDTP)
 
 - [Draft 2025-03](ndtp/draft-2025-03.md)
+
+#### 別紙
+
+- [プロトコル番号一覧](ndtp/protocol-id.md)
